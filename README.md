@@ -3,13 +3,23 @@ A synthesizable 8-bit Arithmetic Logic Unit (ALU) designed in Verilog HDL. The A
 
 Features
 8-bit data inputs (a and b)
+
 8-bit output (y)
+
 1-bit carry input (Cin)
+
 4-bit operation select (sel)
+
 Supports 16 operations
+
 8 arithmetic operations
+
 8 logical operations
+
 Combinational RTL design
+
 Synthesizable Verilog
+
 Testbench included
+
 Compatible with FPGA development tools such as Xilinx Vivado
